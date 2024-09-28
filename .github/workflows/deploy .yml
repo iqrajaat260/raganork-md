@@ -3,7 +3,7 @@
 3. git clone https://github.com/souravkl11/raganork-md && cd raganork-md
 4. yarn install --ignore-engines --network-concurrency 1
 5. vi config.env
-6. Enter your session there in format 'SESSION=your_session_here'
+6. Enter your session there in format 'SESSION=Raganork~a80af3ec7bd7bd40ab1a1bd18852e548:615163617879736d312b493d'
 7. Press ctrl+c, then type ':wq' and press enter
 8. npm start
 
